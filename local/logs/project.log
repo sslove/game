@@ -1,0 +1,919 @@
+2019-08-19T08:42:21.171Z - normal: Load ~/.CocosCreator/settings.json
+2019-08-19T08:42:21.208Z - normal: Initializing Asset Database
+2019-08-19T08:42:21.210Z - normal: checking language setting...
+2019-08-19T08:42:21.211Z - normal: Language: zh
+2019-08-19T08:42:21.647Z - success: preview server running at http://localhost:7456
+2019-08-19T08:42:21.684Z - success: protocol editor-framework registered
+2019-08-19T08:42:21.684Z - success: protocol app registered
+2019-08-19T08:42:21.684Z - success: protocol theme registered
+2019-08-19T08:42:21.684Z - success: protocol packages registered
+2019-08-19T08:42:21.684Z - success: protocol uuid registerred
+2019-08-19T08:42:21.684Z - success: protocol db registerred
+2019-08-19T08:42:21.684Z - success: protocol thumbnail registerred
+2019-08-19T08:42:21.684Z - success: protocol unpack registerred
+2019-08-19T08:42:21.685Z - success: protocol disable-commonjs registerred
+2019-08-19T08:42:21.785Z - normal: connected!
+2019-08-19T08:42:21.787Z - normal: Check project /Users/shisha/Downloads/start_project
+2019-08-19T08:42:21.789Z - normal: Initializing project /Users/shisha/Downloads/start_project
+2019-08-19T08:42:22.027Z - normal: Initializing Cocos2d
+2019-08-19T08:42:22.465Z - normal: Initializing engine extends
+2019-08-19T08:42:22.529Z - success: asset-db-debugger loaded
+2019-08-19T08:42:22.538Z - success: baidu-adapter loaded
+2019-08-19T08:42:22.540Z - success: color-picker loaded
+2019-08-19T08:42:22.609Z - success: fb-audience-network loaded
+2019-08-19T08:42:22.643Z - success: fb-live-stream loaded
+2019-08-19T08:42:22.645Z - success: google-play-instant loaded
+2019-08-19T08:42:22.648Z - success: huawei-runtime loaded
+2019-08-19T08:42:22.791Z - success: cpk-publish loaded
+2019-08-19T08:42:22.792Z - success: jsb-adapter loaded
+2019-08-19T08:42:22.794Z - success: oppo-runtime loaded
+2019-08-19T08:42:22.809Z - success: package-manager loaded
+2019-08-19T08:42:22.886Z - success: qqplay-adapter loaded
+2019-08-19T08:42:22.887Z - success: runtime-dev-tools loaded
+2019-08-19T08:42:22.901Z - success: sdkbox loaded
+2019-08-19T08:42:22.912Z - success: tester loaded
+2019-08-19T08:42:22.924Z - success: ui-grid loaded
+2019-08-19T08:42:22.935Z - success: ui-kit-preview-extra loaded
+2019-08-19T08:42:22.945Z - success: ui-kit-preview loaded
+2019-08-19T08:42:22.955Z - success: ui-kit loaded
+2019-08-19T08:42:22.966Z - success: ui-tree loaded
+2019-08-19T08:42:22.969Z - success: vivo-runtime loaded
+2019-08-19T08:42:22.969Z - success: weapp-adapter loaded
+2019-08-19T08:42:22.970Z - success: xiaomi-adapter loaded
+2019-08-19T08:42:23.010Z - success: assets loaded
+2019-08-19T08:42:23.021Z - success: builder loaded
+2019-08-19T08:42:23.195Z - success: cocos-services loaded
+2019-08-19T08:42:23.208Z - success: console loaded
+2019-08-19T08:42:23.234Z - success: fb-instant-games loaded
+2019-08-19T08:42:23.245Z - success: game-window loaded
+2019-08-19T08:42:23.246Z - success: google-instant-games loaded
+2019-08-19T08:42:23.258Z - success: hierarchy loaded
+2019-08-19T08:42:23.270Z - success: inspector loaded
+2019-08-19T08:42:23.271Z - success: keystore loaded
+2019-08-19T08:42:23.286Z - success: node-library loaded
+2019-08-19T08:42:23.286Z - success: package-asset loaded
+2019-08-19T08:42:23.287Z - success: preferences loaded
+2019-08-19T08:42:23.298Z - success: project-exporter loaded
+2019-08-19T08:42:23.310Z - success: project-importer loaded
+2019-08-19T08:42:23.322Z - success: project-settings loaded
+2019-08-19T08:42:23.335Z - success: scene loaded
+2019-08-19T08:42:23.336Z - success: simulator-debugger loaded
+2019-08-19T08:42:23.337Z - success: sprite-editor loaded
+2019-08-19T08:42:23.350Z - success: store loaded
+2019-08-19T08:42:23.363Z - success: timeline loaded
+2019-08-19T08:42:23.366Z - success: xiaomi-runtime loaded
+2019-08-19T08:42:23.979Z - normal: Loading packages
+2019-08-19T08:42:23.983Z - normal: Watching packages
+2019-08-19T08:42:24.055Z - normal: Run Application
+2019-08-19T08:42:24.748Z - info: Cocos Services load base data!
+2019-08-19T08:43:09.110Z - success: API data generated and copied to /Users/shisha/Downloads/start_project/creator.d.ts
+2019-08-19T08:43:11.622Z - success: VS Code extension installed to /Users/shisha/.vscode/extensions
+2019-08-19T08:43:14.123Z - success: TypeScript Configuration file has been copied to /Users/shisha/Downloads/start_project/tsconfig.json
+2019-08-19T08:43:19.116Z - success: Chrome debug setting has been updated to .vscode/launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2019-08-19T08:43:22.363Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
+2019-08-19T12:04:31.736Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/script/NewScript.ts.meta
+2019-08-19T12:06:52.958Z - info: 只有预制节点 "Star" 及其子节点会被保存。
+2019-08-19T12:11:19.130Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/script/Game.ts.meta
+2019-08-20T03:07:41.198Z - info: 只有预制节点 "Star" 及其子节点会被保存。
+2019-08-20T03:08:10.067Z - info: 只有预制节点 "Star" 及其子节点会被保存。
+2019-08-20T03:15:06.100Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:16:02.061Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:16:23.161Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:17:18.202Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:18:16.439Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:18:35.095Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:19:50.299Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:20:23.939Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:20:52.938Z - info: 只有预制节点 "Star" 及其子节点会被保存。
+2019-08-20T03:21:37.955Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:23:30.359Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:26:33.452Z - info: 只有预制节点 "Star" 及其子节点会被保存。
+2019-08-20T03:32:04.501Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:37:00.255Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:46:16.553Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T03:53:47.061Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T06:13:26.607Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T06:13:26.609Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T06:16:26.833Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T06:16:26.834Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T06:20:56.506Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T06:20:56.508Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T06:20:56.509Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T06:29:44.937Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T06:29:44.938Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T06:29:44.939Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T06:30:27.537Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T06:30:27.539Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T06:30:27.539Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T06:43:12.395Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T06:43:12.397Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T06:43:12.397Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T06:52:23.320Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T06:52:23.323Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T06:52:23.325Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:05:45.351Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:05:45.352Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:05:45.356Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:05:45.358Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:08:16.175Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:08:16.177Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:08:16.177Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:08:16.177Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:18:04.643Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:18:04.645Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:18:04.646Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:18:04.648Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:20:07.170Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:20:07.171Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:20:07.172Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:20:07.172Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:27:24.022Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:27:24.024Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:27:24.024Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:27:24.024Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:30:18.192Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:30:18.194Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:30:18.194Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:30:18.195Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:31:08.965Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:31:08.965Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:31:08.968Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:31:08.970Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:36:00.893Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:36:00.894Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:36:00.895Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:36:00.895Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:38:09.802Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:38:09.804Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:38:09.804Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:38:09.805Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:38:42.108Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:38:42.108Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:38:42.109Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:38:42.110Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:39:41.602Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:39:41.602Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:39:41.603Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:39:41.604Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:40:59.905Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:40:59.905Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:40:59.906Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:40:59.907Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:41:46.492Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:41:46.493Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:41:46.494Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:41:46.496Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:42:45.603Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:42:45.604Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:42:45.606Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:42:45.606Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:44:59.078Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:44:59.080Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:44:59.080Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:44:59.080Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:45:42.266Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:45:42.267Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:45:42.269Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:45:42.271Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:46:25.827Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:46:25.828Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:46:25.829Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:46:25.830Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:50:30.248Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:50:30.249Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:50:30.250Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T07:50:30.250Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:50:30.250Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:53:09.449Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:53:09.451Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:53:09.452Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T07:53:09.452Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:53:09.453Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T07:53:54.137Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T07:53:54.139Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T07:53:54.139Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T07:53:54.139Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T07:53:54.141Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:00:08.832Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T08:00:08.833Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T08:00:08.833Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T08:00:08.836Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T08:00:08.836Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:01:40.204Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T08:01:40.205Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T08:01:40.206Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T08:01:40.206Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T08:01:40.207Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:02:35.371Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T08:02:35.372Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T08:02:35.372Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T08:02:35.376Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T08:02:35.378Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:04:25.159Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T08:04:25.159Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T08:04:25.159Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T08:04:25.162Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T08:04:25.163Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:10:31.800Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T08:10:31.802Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T08:10:31.802Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T08:10:31.802Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T08:10:31.802Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:12:22.284Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T08:12:22.284Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T08:12:22.284Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T08:12:22.284Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T08:12:22.284Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
