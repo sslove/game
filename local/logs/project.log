@@ -950,3 +950,113 @@ value;
 @property(...)
 value = 0 jumpAudio
 2019-08-20T08:20:54.631Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:42:55.250Z - error: Can't init canvas 'canvas' because it conflicts with the existing 'Canvas', the scene should only have one active canvas at the same time
+    at Object.cc.errorID (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:167:16)
+    at cc_Canvas.__preload (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/components/CCCanvas.js:82:31)
+    at call__preloadInTryCatch (eval at misc.tryCatchFunctor_EDITOR (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/misc.js:1:1), <anonymous>:5:32)
+    at CCClass._invoke (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:185:29)
+    at CCClass.invoke (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/node-activator.js:49:22)
+    at CCClass.activateNode (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/node-activator.js:166:34)
+    at cc_Node._onHierarchyChanged (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:623:48)
+    at cc_Node._onHierarchyChanged (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCNode.js:726:22)
+    at cc_Node.setParent (/Applications/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/utils/base-node.js:219:26)
+2019-08-20T08:58:01.369Z - info: Path: Canvas/Score, UUID: f2HLuEayhD04ty3NOKDsnO
+2019-08-20T09:05:54.229Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T09:05:54.231Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T09:05:54.231Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T09:05:54.235Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T09:05:54.238Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T09:06:57.651Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T09:06:57.651Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T09:06:57.651Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T09:06:57.653Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T09:06:57.655Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T09:07:30.852Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T09:07:30.852Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T09:07:30.853Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T09:07:30.856Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T09:07:30.856Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script

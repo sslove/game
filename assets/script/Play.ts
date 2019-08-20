@@ -67,7 +67,7 @@ export default class Play extends cc.Component {
         //100像素/秒  60帧/秒 ？1帧多少像素
         this.node.x += this.xSpeed * dt;
         if(this.node.x > this.node.parent.width/2){
-            this.node.x = this.node.parent.width;
+            this.node.x = this.node.parent.width/2;
             this.xSpeed = 0;
         }else if(this.node.x < -this.node.parent.width/2){
             this.node.x = -this.node.parent.width/2;
