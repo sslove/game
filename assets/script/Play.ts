@@ -66,8 +66,6 @@ export default class Play extends cc.Component {
         }
         //100像素/秒  60帧/秒 ？1帧多少像素
         this.node.x += this.xSpeed * dt;
-        console.log(this.node.x);
-        console.log(this.node.parent.width/2)
         if(this.node.x > this.node.parent.width/2){
             this.node.x = this.node.parent.width;
             this.xSpeed = 0;
@@ -75,7 +73,6 @@ export default class Play extends cc.Component {
             this.node.x = -this.node.parent.width/2;
             this.xSpeed = 0;
         }
-        // console.log(this.node.x)
     }
     //初始化函数
     public init(pos){

@@ -126,7 +126,6 @@ export default class Game extends cc.Component {
     //获取分数
     public gainScore(){
         this.score +=1
-        console.log(this.scorePlay)
         this.scorePlay.string = "Score:" + this.score.toString();
         cc.audioEngine.playEffect(this.scoreAuio,false)
 
