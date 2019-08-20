@@ -77,8 +77,6 @@ var Play = /** @class */ (function (_super) {
         }
         //100像素/秒  60帧/秒 ？1帧多少像素
         this.node.x += this.xSpeed * dt;
-        console.log(this.node.x);
-        console.log(this.node.parent.width / 2);
         if (this.node.x > this.node.parent.width / 2) {
             this.node.x = this.node.parent.width;
             this.xSpeed = 0;
@@ -87,7 +85,6 @@ var Play = /** @class */ (function (_super) {
             this.node.x = -this.node.parent.width / 2;
             this.xSpeed = 0;
         }
-        // console.log(this.node.x)
     };
     //初始化函数
     Play.prototype.init = function (pos) {

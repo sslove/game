@@ -494,14 +494,14 @@
     "meta": 1566285484093,
     "relativePath": "script/Start.ts"
   },
-  "f9e76819-7d92-4b12-89f6-da2ac3eb4de0": {
-    "asset": 1566288257367,
-    "meta": 1566288264682,
-    "relativePath": "script/Play.ts"
-  },
   "56ae08f4-35a4-47c4-a455-067d6683c540": {
-    "asset": 1566288737694,
-    "meta": 1566288741795,
+    "asset": 1566289215870,
+    "meta": 1566289254089,
     "relativePath": "script/Game.ts"
+  },
+  "f9e76819-7d92-4b12-89f6-da2ac3eb4de0": {
+    "asset": 1566289228141,
+    "meta": 1566289254090,
+    "relativePath": "script/Play.ts"
   }
 }

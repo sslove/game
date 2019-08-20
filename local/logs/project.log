@@ -917,3 +917,36 @@ value;
 @property(...)
 value = 0 jumpAudio
 2019-08-20T08:12:22.284Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script
+2019-08-20T08:20:54.625Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 scoreAuio
+2019-08-20T08:20:54.627Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 btnStart
+2019-08-20T08:20:54.627Z - warn: Please specifiy a default value for "Game" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 currentStart
+2019-08-20T08:20:54.629Z - warn: Please specifiy a default value for "Play" property at its declaration:
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 jumpAudio
+2019-08-20T08:20:54.631Z - warn: The 'type' attribute of 'Start.game' is undefined when loading script

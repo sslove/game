@@ -119,7 +119,6 @@ var Game = /** @class */ (function (_super) {
     //获取分数
     Game.prototype.gainScore = function () {
         this.score += 1;
-        console.log(this.scorePlay);
         this.scorePlay.string = "Score:" + this.score.toString();
         cc.audioEngine.playEffect(this.scoreAuio, false);
     };
