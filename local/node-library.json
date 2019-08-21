@@ -1,6 +1,11 @@
 {
   "user": {
     "name": "User",
-    "prefab": []
+    "prefab": [
+      {
+        "name": "Star",
+        "uuid": "c224c5a5-8628-4fba-b16f-6b071a35c869"
+      }
+    ]
   }
 }

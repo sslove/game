@@ -440,7 +440,7 @@
     "relativePath": "audio/score.mp3"
   },
   "d6ff10bc-4d58-4d63-8af4-19151a90da2c": {
-    "asset": 1566203968000,
+    "asset": 1566218059894,
     "meta": 1526930962000,
     "relativePath": "textures"
   },
@@ -474,34 +474,34 @@
     "meta": 1566204057641,
     "relativePath": "textures/star.png"
   },
-  "0ec179c4-1e1a-49b0-8250-1173ce8d9cc1": {
-    "asset": 1566205171152,
-    "meta": 1566205183255,
-    "relativePath": "game.fire"
-  },
   "2402f392-3d3b-41d3-b650-e4eacdc769e5": {
-    "asset": 1566207225104,
+    "asset": 1566218059894,
     "meta": 1566207225105,
     "relativePath": "script"
-  },
-  "c224c5a5-8628-4fba-b16f-6b071a35c869": {
-    "asset": 1566271593462,
-    "meta": 1566271593481,
-    "relativePath": "Star.prefab"
   },
   "5778a6c3-b3a4-4d2f-ad35-45f709d38737": {
     "asset": 1566285467297,
     "meta": 1566285484093,
     "relativePath": "script/Start.ts"
   },
-  "56ae08f4-35a4-47c4-a455-067d6683c540": {
-    "asset": 1566289215870,
-    "meta": 1566289254089,
-    "relativePath": "script/Game.ts"
+  "511e8316-53f1-4857-8a6f-b236adc64208": {
+    "asset": 1566359488814,
+    "meta": 1566359488820,
+    "relativePath": "game.fire"
+  },
+  "1320bc0a-02ae-4367-84d2-cc0e74d6f45e": {
+    "asset": 1566358839412,
+    "meta": 1566358839416,
+    "relativePath": "Star .prefab"
   },
   "f9e76819-7d92-4b12-89f6-da2ac3eb4de0": {
-    "asset": 1566292044186,
-    "meta": 1566292050358,
+    "asset": 1566358425835,
+    "meta": 1566358427478,
     "relativePath": "script/Play.ts"
+  },
+  "56ae08f4-35a4-47c4-a455-067d6683c540": {
+    "asset": 1566358483845,
+    "meta": 1566358488886,
+    "relativePath": "script/Game.ts"
   }
 }

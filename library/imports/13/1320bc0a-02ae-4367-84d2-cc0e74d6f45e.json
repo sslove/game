@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "Star",
+    "_name": "Star ",
     "_objFlags": 0,
     "_native": "",
     "data": {
@@ -50,8 +50,8 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": -480,
-      "y": -320,
+      "x": -330,
+      "y": 98,
       "z": 0
     },
     "_scale": {
@@ -112,7 +112,7 @@
       "__id__": 1
     },
     "_enabled": true,
-    "pickRadius": 100,
+    "pickRadius": 30,
     "game": null,
     "_id": ""
   },
@@ -122,9 +122,9 @@
       "__id__": 1
     },
     "asset": {
-      "__uuid__": "c224c5a5-8628-4fba-b16f-6b071a35c869"
+      "__uuid__": "1320bc0a-02ae-4367-84d2-cc0e74d6f45e"
     },
-    "fileId": "bbo6d9HhlHaKsDrQJeclnI",
+    "fileId": "bdth1FAZBKoKZS88HFHrz0",
     "sync": false
   }
 ]

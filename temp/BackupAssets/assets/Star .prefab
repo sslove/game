@@ -22,10 +22,13 @@
     "_components": [
       {
         "__id__": 2
+      },
+      {
+        "__id__": 3
       }
     ],
     "_prefab": {
-      "__id__": 3
+      "__id__": 4
     },
     "_opacity": 255,
     "_color": {
@@ -47,8 +50,8 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": -480,
-      "y": -320,
+      "x": -330,
+      "y": 98,
       "z": 0
     },
     "_scale": {
@@ -102,14 +105,26 @@
     "_id": ""
   },
   {
+    "__type__": "5778abDs6RNL601RfcJ04c3",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "pickRadius": 30,
+    "game": null,
+    "_id": ""
+  },
+  {
     "__type__": "cc.PrefabInfo",
     "root": {
       "__id__": 1
     },
     "asset": {
-      "__uuid__": "c224c5a5-8628-4fba-b16f-6b071a35c869"
+      "__uuid__": "1320bc0a-02ae-4367-84d2-cc0e74d6f45e"
     },
-    "fileId": "bbo6d9HhlHaKsDrQJeclnI",
+    "fileId": "bdth1FAZBKoKZS88HFHrz0",
     "sync": false
   }
 ]

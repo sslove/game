@@ -89,6 +89,7 @@ export default class Game extends cc.Component {
        //隐藏按钮
        this.btnStart.x = 1000;
        //小怪兽初始化
+    //    console.log(this.player.getComponent('Play'))
        this.player.getComponent('Play').init(cc.v2(0,this.groundY))
       //随机生星星
       this.newStart();
@@ -105,6 +106,7 @@ export default class Game extends cc.Component {
         this.node.addChild(newStart);
         //将game引入注入到start
         // newStart.getComponent('Start').game = this;
+        console.log(newStart.getComponent('Start'))
         newStart.getComponent('Start').init(this);
 
         newStart.setPosition(this.getNewStartPosition())
